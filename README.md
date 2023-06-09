@@ -1,2 +1,6 @@
-# Command Line Hangman
- A simple command line hangman in Java
+## Command Line Hangman in Java
+Built to practice my understanding of Java
+
+
+
+
