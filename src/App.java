@@ -2,7 +2,6 @@ import java.util.*;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
         Hangman game = new Hangman();
         game.startGame(); // Start the game
     }
